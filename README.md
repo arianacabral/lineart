@@ -1,2 +1,2 @@
-# lineart
-Animated line drawing in SVG
+#  🌻 Lineart
+> Animated line drawing in SVG
